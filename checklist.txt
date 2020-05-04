@@ -1,3 +1,0 @@
-MD5 (checklist.txt) = d41d8cd98f00b204e9800998ecf8427e
-MD5 (file.txt) = edc900745c5d15d773fbcdc0b376f00c
-MD5 (file22.txt) = 0cbc6611f5540bd0809a388dc95a615
